@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  
+  --color-linkedin-blue: #0A66C2;
+  --color-linkedin-blue-hover: #004182;
+  --color-linkedin-bg: #F3F2EE;
+  --color-linkedin-card: #FFFFFF;
+  --color-linkedin-text: #1D2226;
+  --color-linkedin-text-secondary: #00000099;
+  --color-linkedin-border: #E0E0E0;
+
+  --shadow-linkedin: 0 0 0 1px rgba(0, 0, 0, 0.08);
+  --shadow-linkedin-hover: 0 0 0 1px rgba(0, 0, 0, 0.15), 0 4px 6px rgba(0, 0, 0, 0.05);
+
+  --radius-linkedin: 8px;
+}
+
+@layer base {
+  body {
+    @apply bg-linkedin-bg text-linkedin-text font-sans antialiased overflow-x-hidden;
+  }
+}
+
+.nav-item-active {
+  @apply border-b-2 border-black/90 text-linkedin-text;
+}
+
+.btn-pill {
+  @apply rounded-[1600px] font-semibold transition-all;
+}
