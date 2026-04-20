@@ -111,7 +111,7 @@ Built with Google AI Studio. Demonstrates the full 6-screen user flow:
 - Competitive analysis (G2, product walkthroughs, support docs)
 - PIF framework for problem prioritization
 - RICE framework for solution prioritization
-- Lovable for live prototype
+- Google AI Studio, Lovable for live prototype
 - Figma (wireframe sketches)
 
 ---
