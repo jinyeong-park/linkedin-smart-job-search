@@ -83,7 +83,7 @@ LinkedIn's primary revenue comes from recruiters (~60% Talent Solutions), not jo
 
 > 🔗 <a href="https://ai.studio/apps/132026fc-2cb0-45e2-acca-51af628cddb3?fullscreenApplet=true" target="_blank" rel="noopener noreferrer">Live Prototype →</a>
 
-Built with Lovable. Demonstrates the full 6-screen user flow:
+Built with Google AI Studio. Demonstrates the full 6-screen user flow:
 
 1. Job Search with Match Score sorting + Trial Banner + Daily Stats Bar
 2. Job Detail with Match Score breakdown and Skill Gap
