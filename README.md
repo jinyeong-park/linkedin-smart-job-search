@@ -81,7 +81,7 @@ LinkedIn's primary revenue comes from recruiters (~60% Talent Solutions), not jo
 
 ## Prototype
 
-> 🔗 **[Live Prototype →](#https://ai.studio/apps/132026fc-2cb0-45e2-acca-51af628cddb3?fullscreenApplet=true)**
+> 🔗 **[Live Prototype →](#)** *(https://ai.studio/apps/132026fc-2cb0-45e2-acca-51af628cddb3?fullscreenApplet=true)*
 
 Built with Lovable. Demonstrates the full 6-screen user flow:
 
